@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BK9kLoA9hq91B0mDrrHUpjp50kdCh/to4OXz+8josgjx6yrsfhvgiS5KxgB7HQps7sb/taPGVglmyXgMjSsURA==",
+  "success": true,
+  "projectFilePath": "/home/jcde/learn/cs/BlazorApp/BlazorApp.csproj",
+  "expectedPackageFiles": [
+    "/home/jcde/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
